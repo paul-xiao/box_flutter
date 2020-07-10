@@ -25,3 +25,8 @@ flutter emulators --create [--name emulator_name]
 # emulator list
 flutter emulators
 ```
+
+#### API
+
+- BottomNavigationBar
+  - onTap: (index) {}
