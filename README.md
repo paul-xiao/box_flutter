@@ -30,3 +30,15 @@ flutter emulators
 
 - BottomNavigationBar
   - onTap: (index) {}
+## todos
+- 遍历数据
+## Flutter 101
+> learn flutter from the ground up
+- widget
+  - 基础组件
+    - Container
+    - Row
+    - Column
+- layout
+- animation
+- request

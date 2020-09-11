@@ -14,8 +14,7 @@ class TravelPage extends StatelessWidget {
         children: <Widget>[
           Container(
             color: Colors.cyan,
-            child: Image.asset('assets/index/img_redirect_confirm_travel.png',
-                fit: BoxFit.contain),
+            child: Image.asset('assets/logo.png', fit: BoxFit.contain),
           ),
           Positioned(
               bottom: 0,

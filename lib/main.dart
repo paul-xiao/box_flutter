@@ -14,6 +14,6 @@ class MyApp extends StatelessWidget {
           '/signin': (BuildContext context) => new SigninPage(),
           '/home': (BuildContext context) => new IndexPage(),
         },
-        initialRoute: '/signin');
+        initialRoute: '/home');
   }
 }
